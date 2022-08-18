@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://vsthemes.org/uploads/posts/2020-08/1596889219_screenshot_3.jpg");
+    height: 1900px;
+}
+
+h1, h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    padding-top: 400px;
+}
+
+.botao-menu{
+    display: flex;
+    justify-content: center;
+    padding-top: 390px;
+    color: white;
+    border-color: white;
+}
+
+button{
+    background-color: white;
+}
+
+.ver{
+    display: flex;
+}
+
+.ver img{
+    width: 25px;
+    height: 25px;
+}
