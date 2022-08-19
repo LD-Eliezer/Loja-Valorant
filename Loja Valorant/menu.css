@@ -1,6 +1,6 @@
 body{
-    background-image: url("https://vsthemes.org/uploads/posts/2020-08/1596889219_screenshot_3.jpg");
-    height: 1900px;
+    background-image: url("https://images.hdqwalls.com/download/valorant-4k-2020-dx-1920x1080.jpg");
+
 }
 
 h1, h2{
@@ -16,20 +16,52 @@ h1, h2{
 .botao-menu{
     display: flex;
     justify-content: center;
-    padding-top: 390px;
+    padding-top: 190px;
     color: white;
     border-color: white;
 }
 
-button{
-    background-color: white;
+button {
+    font-size: 15px;
+    border-radius: 50px;
+    border-color: none;
+    background-color: black;
+    color: white;
+    width: 400px;
+    font-style: bold;
+    height: 60px;
 }
 
 .ver{
     display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
 }
 
 .ver img{
-    width: 25px;
-    height: 25px;
+    width: 19px;
+    height: 19px;
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    border-radius: 50px;
+    border-color: white;
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 60px;
+    align-items: center;
+}
+
+.botao-venda{
+    padding-top: 550px;
+    display: flex;
+    justify-content: center;
 }
