@@ -1,0 +1,32 @@
+h1{
+  display: flex;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.pai{
+  display: flex;
+  justify-content: center;
+  padding-top: 2%;
+  padding: 20px;
+}
+
+button {
+  font-size: 15px;
+  border-radius: 50px;
+  border-color: none;
+  background-color: black;
+  color: white;
+  width: 400px;
+  font-style: bold;
+  height: 60px;
+  color: white ;
+}
+
+.botao-voltar{
+  display: flex;
+  justify-content: center;
+  padding-top: 190px;
+  color: white;
+  border-color: white;
+}
